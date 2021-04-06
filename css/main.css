@@ -168,10 +168,11 @@ main .main-section{
   grid-column: 1;
 }
 .blogs-news-img-container img{
-  width: 85%;
+  width: 70%;
 }
 .blogs-news-info-container {
   grid-column: 2;
+  
 }
 
 .blogs-news-info-container h2{
@@ -219,6 +220,22 @@ main .main-section{
 }
 .blogs-posts-container .post-container img{
   width: 100%;
+}
+.blogs-news-info-container a{
+  color: #aa4e23;
+}
+.blogs-news-info-container ul{
+  display: flex;
+  list-style: none;
+  
+  
+}
+.blogs-news-info-container li{
+ 
+  font-size: 1.5rem;
+  color:rgb(238, 235, 235);
+  letter-spacing: 0.3rem;
+  margin: 10px;
 }
 footer{
   width: 100%;
