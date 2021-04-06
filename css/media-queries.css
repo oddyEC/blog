@@ -14,3 +14,8 @@
         max-width: 45%;
     }
 }
+@media (max-width: 600px){
+    .blogs-posts-container .post-container{
+        max-width: 95%;
+    }
+}
