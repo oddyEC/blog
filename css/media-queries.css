@@ -18,4 +18,13 @@
     .blogs-posts-container .post-container{
         max-width: 95%;
     }
+    .main-button-container button{
+        height: 100%;
+        width: 100%;
+    }
+    .main-button-container img{
+        
+        width: 15px;
+        
+    }
 }
