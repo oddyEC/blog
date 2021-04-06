@@ -120,8 +120,12 @@ main .main-section{
   color: #aa4e23;
   font-weight: 600;
 }
+.main-button-container{
+  display: flex;
+  margin-bottom: 100px;
+}
 .main-button-container button {
-  display: grid;
+  display: inline-block;
   box-sizing: border-box;
   margin: 0 auto;
   text-align: center;
