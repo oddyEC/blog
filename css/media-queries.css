@@ -18,6 +18,9 @@
     .blogs-posts-container .post-container{
         max-width: 95%;
     }
+    .main-title h1,h2{
+       font-size: 3rem;
+    }
     .main-button-container button{
         height: 100%;
         width: 100%;
